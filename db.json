@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "Wake up",
+      "important": false
+    },
+    {
+      "id": 2,
+      "content": "Coffee",
+      "important": false
+    },
+    {
+      "id": 3,
+      "content": "Code",
+      "important": false
+    },
+    {
+      "content": "",
+      "important": false,
+      "id": 6
+    },
+    {
+      "content": "die",
+      "important": false,
+      "id": 7
+    },
+    {
+      "content": "",
+      "important": false,
+      "id": 8
+    }
+  ]
+}
